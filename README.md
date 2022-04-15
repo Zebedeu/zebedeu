@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá! Eu sou a Marcio Zebedeu 😉
+## Olá! Eu sou o Marcio Zebedeu 😉
 - 📫 Entre em contacto comigo pelo email: marciozebedeu@gmail.com
 - 👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=zebedeu&color=green" alt="zebedeu" /> 
 
