@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá! Eu sou a Creuma Kuzola 😉
-- 🏫 Sou <b> Bacharel</b> no curso de Engenharia Informática na UCAN
-- 🔭 Actualmete trabalho como Front-End Dev , Designer e Marketeer
-- 🌱 Estou actualmente a estudar JS e Design !
-- 📫 Entre em contacto comigo pelo email: creumakuzola@gmail.com
+## Olá! Eu sou a Marcio Zebedeu 😉
+- 📫 Entre em contacto comigo pelo email: marciozebedeu@gmail.com
 - ⚡ Facto engraçado: Kuzola em Kimbundu significa amor, ou seja, o meu nome é Creuma Amor 
-- 👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=Creuma-Kuzola&color=green" alt="Creuma-Kuzola" /> 
+- 👀 Visualizações no meu perfil: <img src="https://komarev.com/ghpvc/?username=zebedeu&color=green" alt="zebedeu" /> 
 
 <div>
-  <a href="https://github.com/Creuma-Kuzola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Creuma-Kuzola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Creuma-Kuzola&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/zebedeu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zebedeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebedeu&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Creuma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
