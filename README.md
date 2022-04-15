@@ -35,6 +35,11 @@ Here are some ideas to get you started:
   <img align="center" alt="zebedeu-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="zebedeu-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  </div>
+    <img align="center" alt="zebedeu-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="zebedeu-fulter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fluter/fluter-original.svg">
+  
+  <img align="center" alt="zebedeu-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+ </div>
   
   <br>
 
