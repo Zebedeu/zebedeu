@@ -37,9 +37,9 @@ Here are some ideas to get you started:
   <img align="center" alt="zebedeu-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
  </div>
   
-  <br>
   
   <details title="Marcio Zebedeu Trophies">
+      <br>
     <br />
     <summary align="left"><strong><i>Marcio Zebedeu Trophies</i></strong> 🏆</summary>
     <p align="center">
