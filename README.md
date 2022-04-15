@@ -36,7 +36,8 @@ Here are some ideas to get you started:
   <img align="center" alt="zebedeu-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="zebedeu-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
  </div>
-  
+        <br>
+
   
   <details title="Marcio Zebedeu Trophies">
       <br>
@@ -49,20 +50,7 @@ Here are some ideas to get you started:
              title="Marcio Zebedeu Trophies"
         />
     </p>
-    <p align="center">
-      <a href="https://github.com/zebedeu/zebedeu/issues">
-        <img src="https://img.shields.io/github/issues/zebedeu/zebedeu" title="issues" alt="issues" /> 
-      </a>
-      <a href="https://github.com/zebedeu/zebedeu/network/members">
-        <img src="https://img.shields.io/github/forks/zebedeu/zebedeu" title="forks" alt="forks" /> 
-      </a>
-      <a href="https://github.com/zebedeu/zebedeu/stargazers">
-        <img src="https://img.shields.io/github/stars/zebedeu/zebedeu" title="stars" alt="stars" /> 
-      </a>
-       <a href="https://github.com/zebedeu/zebedeu/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/zebedeu/zebedeu" title="license" alt="license" /> 
-      </a>
-    </p>
+
 </details>
 
 
