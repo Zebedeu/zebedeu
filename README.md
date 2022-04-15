@@ -46,7 +46,7 @@ Here are some ideas to get you started:
         <img 
              src="https://github-profile-trophy.vercel.app/?username=zebedeu&column=4&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true" 
              width="60%"
-             title="Lucas Magalhães's Trophies"
+             title="Marcio Zebedeu Trophies"
         />
     </p>
     <p align="center">
